@@ -1,0 +1,36 @@
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 20px;
+}
+body{
+    background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
+}
+.nav-link:hover {
+    color: #00c6ff !important; 
+}.navbar-brand:hover{
+    color: #00c6ff !important;
+}
+.navbar-container {
+    padding-left:31px; 
+}
+h1{
+    text-align: center;
+   
+}
+button{
+    width:10%;
+    border: none;
+    border-radius: 1rem;
+    margin-left:px;
+    background: #dc3545;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;   
+    padding: 1.5%; 
+    text-align: center;
+}
+button:hover{
+    opacity: 0.6;
+}

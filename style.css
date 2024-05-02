@@ -1,0 +1,88 @@
+.container{
+    margin-top: 10px;   
+    background-color: white;
+    padding: 20px;
+    border-radius: 30px;
+}
+img{
+    max-width: 100%;
+    
+}
+img:hover{
+    opacity: 0.7;
+}
+.Product-text{
+    text-align: center;
+    margin-top: 30px;
+    color: #0062cc;
+    
+}
+.foot{
+    margin-top: 10px;
+    background-color: white;
+}
+.AboutUs{
+    text-align: center;
+}
+body{
+    background: white;
+}
+h1{
+    text-align: center ;
+}
+.navbar-brand:hover{
+    color: #00c6ff !important;
+}
+.nav-link:hover {
+    color: #00c6ff !important; 
+}
+.gallery img{
+	background-color:#00c6ff;
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0 0 15px rgba(0,0,0,0.3);
+	cursor: pointer;
+    
+}
+#gallery-modal .modal-img{
+	width:50%;
+   
+}
+.modal-content {
+  border-radius: 10px;
+  background-color: white !important;
+}
+.modal-header {
+  border: 0px;
+	background-color:#00c6ff;
+}
+
+.navbar-container {
+    padding-left:31px; 
+}
+.Check{
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    margin-left:px;
+    background: #dc3545;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;   
+    padding: 1.5%; 
+}
+.Check:hover{
+    opacity: 0.7;
+}
+.navbar{
+    background-color: black;
+}
+h1{
+    color: black;
+}
+h5{
+    text-align: center;
+}
+.icon-container{
+    background-color:lightblue;
+}

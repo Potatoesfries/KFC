@@ -1,0 +1,50 @@
+
+.container{
+   margin-top: 50px;
+    
+}
+img{
+    max-width: 100%;
+}
+img:hover{
+    opacity: 0.7;
+}
+.Product-text{
+    text-align: center;
+    margin-top: 30px;
+    color: #0062cc;
+    
+}
+.foot{
+    margin-top: 180px;
+}
+.AboutUs{
+    text-align: center;
+}
+body{
+    background:white;
+}
+h1{
+    text-align: center  ;
+    font-size: 19px;
+    width: 100%;
+}
+.categories{
+    text-align: center;
+}
+
+.nav-link:hover {
+    color: #00c6ff !important; 
+}
+.navbar-brand:hover{
+    color: #00c6ff !important;
+}
+h2{
+    margin-top: 50px;
+}
+button:hover{
+    opacity: 0.7;
+}
+.navbar-container {
+    padding-left:31px; 
+}
